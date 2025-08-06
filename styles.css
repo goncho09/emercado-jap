@@ -1,3 +1,8 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
 body {
     background-color: linear-gradient(to bottom, #1284ad, #4c5fe9);
 
